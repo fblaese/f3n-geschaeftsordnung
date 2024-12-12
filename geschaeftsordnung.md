@@ -32,7 +32,7 @@ Sie ist nicht abschließend, bindet die Vorstandsmitglieder jedoch als Sollvorsc
 1. Beschlüsse werden mit einfacher Mehrheit der inhaltlich abgegebenen Ja/Nein Stimmen gefasst.
 2. Bei Beschlussfassungen in Sitzungen ist das Ergebnis zu protokollieren.
 3. Beschlüsse können durch Umlauf gefasst werden. Dabei ist sicherzustellen, dass alle Vorstandsmitglieder die Möglichkeit zur Äußerung und Stimmabgabe hatten. Die Umlaufzeit soll 24 Stunden bis 7 Tage betragen. Für die Wirksamkeit eines Beschlusses im Umlaufverfahren genügt es, dass die Annahmebedingung erreicht ist.
-4. Die Stimmabgabe ist zu protokollieren. Diese soll in Textform erfolgen, bevorzugt signiert. Konkret könnten Anträge im Umlaufverfahren durch eine Antragsmail an den Vorstandsverteiler erfolgen. Die Antwortmails wären sodann in einem Unterordner "Beschlüsse" des im Abschnitt Protokolle gefassten Verzeichnisses und dort in einem Ordner je Beschluss gekennzeichnet mit Datum und abstrahiertem Inhalt (vgl. Protokolle) des Beschlusses abzulegen.
+4. Die Stimmabgabe ist zu protokollieren. Diese soll in Textform erfolgen, bevorzugt signiert. Die abgegebenen Stimmen sind in einem Unterordner "Beschlüsse" des im Abschnitt Protokolle gefassten Verzeichnisses abzulegen, gekennzeichnet mit Datum und abstrahiertem Inhalt des Beschlusses.
 
 ## 5. Signaturen
 1. Signaturen erfolgen mittels OpenPGP.

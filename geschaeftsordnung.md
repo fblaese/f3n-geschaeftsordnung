@@ -26,7 +26,7 @@ Sie ist nicht abschließend, bindet die Vorstandsmitglieder jedoch als Sollvorsc
 3. Soweit das Protokoll unmittelbar rechtliche Außenwirkungen entfalten soll, gelten für die Form die allgemeinen Rechtsvorschriften, soweit diese strengere Anforderungen stellen.
 4. Die Protokolle sind in der allgemeinen Ablage des Vereins (https://oc.f3netze.de/) als PDF mit dem Dateinamen `YYYY-MM-TT_"inhaltliche Erörterung".pdf` ggfs. einschließlich Signatur abzulegen.
     1. Nicht vertrauliche Protokolle werden unter `Vorstand/Protokolle` gespeichert. Dieser Ordner wird den Vereinsmitgliedern zugänglich gemacht
-    2. Vertrauliche Protokolle werden getrennt unter `Vorstand/Protokolle_vertraulich` gespeichert
+    2. Protokolle mit vertraulichen inhalten werden getrennt unter `Vorstand/Protokolle_vertraulich` gespeichert. Ein um die vertraulichen Inhalte gekürztes Protokoll wird mitgliederzugänglich unter `Vorstand/Protokolle` gespeichert.
 
 ## 4. Beschlüsse
 1. Beschlüsse werden mit einfacher Mehrheit der inhaltlich abgegebenen Ja/Nein Stimmen gefasst.
